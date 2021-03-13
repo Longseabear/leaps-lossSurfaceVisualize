@@ -20,8 +20,6 @@ Bias and normalization were excluded from direction calculation (Set to 0)
 
 ![image-20210313182531243](image-20210313182531243.png)
 
-![image-20210313181748179](C:\Users\leap1\AppData\Roaming\Typora\typora-user-images\image-20210313181748179.png
-
 ![image-20210313182500231](image-20210313182500231.png)
 
 ![image-20210313182358058](image-20210313182358058.png)
